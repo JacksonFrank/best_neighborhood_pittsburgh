@@ -1,0 +1,9 @@
+Field Name,Field Description,Example 1,Example 2,Additional Data Details
+site_name,Name given to the site for easy identification,Ceres Way,Barking Slopes 2 ,Often the site name is given based off the street the site is located on
+Status,,Surveyed,Completed,"All sites have been surveyed, if the status is completed it means that the site has been cleaned up"
+City,,Pittsburgh,Avalon,
+Neighborhood,,Arlington,Barking Slopes,"in cases of small towns or cities the neighborhood may be the same as the previous field ""City"""
+estimated_tons,The amount of tons the surveyor estimated the site to have ,0.3,2.5,This is done with a visual inspection
+location_description,A description of the location of the dump site if it is particularly hard to see/ find from the road,"Deep ravine contains large items, a sled, yard toys",Null,Many of the sites are left blank in this section
+Latitude,Geographic measurement. Measures East & West,-80.004,-79.89313,Used as X axis in mapping
+Longitude,Geographic measurement. Measures North & South,40.45195,40.5284,used as Y axis in mapping
