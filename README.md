@@ -1,4 +1,4 @@
-# best_neighborhood_pittsburgh
+# Finding the Best Neighborhood in Pittsburgh
 Final Project for CMPINF 0010
 
 ### Team Name: FLO
