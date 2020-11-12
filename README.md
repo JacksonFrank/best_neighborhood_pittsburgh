@@ -7,3 +7,11 @@ Final Project for CMPINF 0010
 + Erasto Omolo (eoo5@pitt.edu)
 + Daniel Lucash (dvl4@pitt.edu)
 
+
+
+### Datasets Used
+
++ [Alleghany County Illegal Dumpsites Dataset](https://data.wprdc.org/dataset/allegheny-county-illegal-dump-sites)
++ [City of Pittsburgh Trees](https://data.wprdc.org/dataset/city-trees)
++ [Pittsburgh Census Information](https://pitt.libguides.com/pghcensus/pghcensustracts)
++ [Pittsburgh Trees](https://data.wprdc.org/dataset/parks1)
