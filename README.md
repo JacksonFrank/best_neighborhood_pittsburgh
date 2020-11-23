@@ -16,7 +16,7 @@ Final Project for CMPINF 0010
 + [City of Pittsburgh Trees](https://data.wprdc.org/dataset/city-trees)
     + All of the city-owned trees in Pittsburgh.
 + [Pittsburgh Census Information](https://pitt.libguides.com/pghcensus/pghcensustracts)
-    + The Pittsburgh census information of Pittsburgh.
+    + Census tract information of Pittsburgh.
 + [Pittsburgh Particulate Matter](https://data.wprdc.org/dataset/particulate-matter-2-5)
     + A dataset containing all of the particulate matter in Pittsburgh.
 
