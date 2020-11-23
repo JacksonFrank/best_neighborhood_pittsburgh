@@ -12,6 +12,17 @@ Final Project for CMPINF 0010
 ### Datasets Used
 
 + [Alleghany County Illegal Dumpsites Dataset](https://data.wprdc.org/dataset/allegheny-county-illegal-dump-sites)
+- All illegal dumpsites in the Pittsburgh area.
 + [City of Pittsburgh Trees](https://data.wprdc.org/dataset/city-trees)
+- All of the city-owned trees in Pittsburgh.
 + [Pittsburgh Census Information](https://pitt.libguides.com/pghcensus/pghcensustracts)
+- The Pittsburgh census information of Pittsburgh.
 + [Pittsburgh Particulate Matter](https://data.wprdc.org/dataset/particulate-matter-2-5)
+- A dataset containing all of the particulate matter in Pittsburgh.
+
+Analysis:
+Our group decided to find the best neighborhood by trying to find the cleanest/most environmentally friendly neighborhood. We accomplished this by looking at these specific metrics:
+
+Illegal Dumpsites: the amount of illegal dumpsites in each neighborhood
+Trees: the amount of trees in each neighborhood
+Particulate Matter: a measurement of air particulates/pollution in each neighborhood
