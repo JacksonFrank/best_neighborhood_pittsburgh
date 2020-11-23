@@ -23,6 +23,10 @@ Final Project for CMPINF 0010
 Analysis:
 Our group decided to find the best neighborhood by trying to find the cleanest/most environmentally friendly neighborhood. We accomplished this by looking at these specific metrics:
 
-Illegal Dumpsites: the amount of illegal dumpsites in each neighborhood
-Trees: the amount of trees in each neighborhood
-Particulate Matter: a measurement of air particulates/pollution in each neighborhood
+Illegal Dumpsites: the amount of illegal dumpsites in each neighborhood (picked the one with the least) East Libery and Springdale 
+Trees: the amount of trees in each neighborhood(picked the neighborhoods that ranked in the top) Squirrel Hill North
+Particulate Matter: a measurement of air particulates/pollution in each neighborhood (picked the neighborhoods that had the least. Chartiers City Upper Lawrenceville	
+
+We concluded this by ranking each neighborhood for each metric (based of its position), adding those rankings up, and seeing who had the smallest sum. We excluded neighborhoods who didn't appear in all of the metrics
+
+Highland Park and East Liberty are the cleanest neighborhoods in Pittsburgh according to our matric.
